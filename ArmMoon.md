@@ -7,7 +7,7 @@ My router address is: 0x002eD924EBf688EaC75c28475Ef0B52173632eBe
 URL: https://testnet.amarok.connextscan.io/router/0x002eD924EBf688EaC75c28475Ef0B52173632eBe
 
 Add liquidity:
-Rinkeby,Kovan,Görli  Completed
+Rinkeby, Kovan, Görli  Completed
 
 Added liquidity:
 - Rinkeby TX HASH: https://rinkeby.etherscan.io/tx/0xdfe821464ec63d1b2b5f659fa08306b8211c861835acfaf2bbc1c0b0994ca420
